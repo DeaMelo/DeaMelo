@@ -1,10 +1,12 @@
   👋 Hi, I’m @deamelo 
   
-  Bem vindo(a) ao meu GItHub!!
+    < Meu nome é Andrea Melo />
   
-  < Meu nome é Andrea Melo />
-    < Front End e Full Stack em formação /> 
-      < Brasília/DF />
+      < Front End e Full Stack em formação /> 
+  
+        < Brasília/DF />
+  
+  Bem vindo(a) ao meu GItHub!!
       
   Sou uma dev em constante construção... 
   
