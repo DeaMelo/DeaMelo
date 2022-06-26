@@ -24,6 +24,6 @@
   
   www.linkedin.com/in/melodea
   
-  https://portfolio-flame-nu-58.vercel.app/
+  https://deaportfolio.vercel.app/
 
 
