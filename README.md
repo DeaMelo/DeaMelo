@@ -6,7 +6,7 @@
   
         < Brasília/DF />
   
-  Bem vindo(a) ao meu GItHub!!
+  Bem vindo(a) ao meu GitHub!!
       
   Sou uma dev em constante construção... 
   
