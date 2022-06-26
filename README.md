@@ -2,7 +2,7 @@
   
     < Meu nome é Andrea Melo />
   
-      < Front End e Full Stack em formação /> 
+      < frontEnd e fullStack em formação /> 
   
         < Brasília/DF />
   
@@ -20,7 +20,7 @@
   </div>
 
 
-  Onde me encontrar:
+  Mais de mim:
   
   www.linkedin.com/in/melodea
 
