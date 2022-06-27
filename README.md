@@ -24,6 +24,6 @@
   
   www.linkedin.com/in/melodea
   
-  https://deaportfolio.vercel.app/
+  https://portfolio-deamelo.vercel.app/
 
 
