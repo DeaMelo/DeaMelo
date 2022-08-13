@@ -2,7 +2,7 @@
   
     < Meu nome é Andrea Melo />
   
-      < frontEnd e fullStack em formação /> 
+      < BackEnd e fullStack em formação /> 
   
         < Brasília/DF />
   
