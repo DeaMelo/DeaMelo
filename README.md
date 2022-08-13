@@ -1,5 +1,3 @@
-![express-js-icon]()
-
   👋 Hi, I’m @deamelo 
   
     < Meu nome é Andrea Melo />
@@ -20,9 +18,7 @@
   <img src="https://user-images.githubusercontent.com/87037732/184508026-9af8b73a-8f27-4bc8-9a0c-3fc177a67088.jpg" width="30px"/> 
   <img src="https://user-images.githubusercontent.com/87037732/184507931-58bd7d0e-f0b0-47d1-8b72-01c59ba23078.svg" width="30px"/>
   <img src="https://user-images.githubusercontent.com/87037732/184507959-1e72f77c-2f50-49ab-8b1d-6cff0d476d87.png" width="30px"/>
-  
-  
-  <img src="https://user-images.githubusercontent.com/87037732/184508329-291d29cc-95fb-4870-aea3-ca5bc2429713.png" width="40px"/>
+  <img src="https://user-images.githubusercontent.com/87037732/184508360-e8b2be70-5b01-4722-9936-8ad267ca1e4f.png" width="40px"/>
    
   
   <img src="https://user-images.githubusercontent.com/87037732/175788120-05484be1-f035-44a0-9bc5-cfcafa0cf819.png" width="30px"/>
