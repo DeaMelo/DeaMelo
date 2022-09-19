@@ -1,10 +1,10 @@
   👋 Hi, I’m @deamelo 
   
-    < Meu nome é Andrea Melo />
+    <Meu nome é Andrea Melo/>
   
-      < BackEnd e fullStack em formação /> 
+      <BackEnd e fullStack em formação/> 
   
-        < Brasília/DF />
+        <Brasília/DF/>
   
   Bem vindo(a) ao meu GitHub!!
       
