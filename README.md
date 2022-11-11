@@ -2,7 +2,7 @@
   
     <Meu nome é Andrea Melo/>
   
-      <BackEnd e fullStack em formação/> 
+      <BackEnd - FullStack/> 
   
         <Brasília/DF/>
   
