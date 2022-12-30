@@ -1,4 +1,4 @@
-  👋 Hi, I’m @deamelo 
+  👋 Hello world, I’m @deamelo 
   
     <Meu nome é Andrea Melo/>
   
