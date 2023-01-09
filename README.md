@@ -32,5 +32,9 @@
   www.linkedin.com/in/melodea
   
   https://portfolio-deamelo.vercel.app/
+  
+  Outros contatos:
+  
+  (61) 9 9379-9033
 
 
