@@ -25,7 +25,7 @@
   <img src="https://user-images.githubusercontent.com/87037732/175788524-7433e081-9f02-4906-b95d-a67266de3eab.png" width="35px" />
   <img src="https://user-images.githubusercontent.com/87037732/175788641-4ecdc27b-35c8-4b8f-8097-99d6373c29fc.svg" width="50px" />
   <img src="https://user-images.githubusercontent.com/87037732/215578536-170a8c80-43f3-4256-8823-083469d00a7e.svg" width="35px" />
-  <img src="https://github.com/deamelo/deamelo/assets/87037732/2a388184-8982-4902-8ed2-f9913bfb6819.svg" width="35px" />
+  <img src="https://github.com/deamelo/deamelo/assets/87037732/2a388184-8982-4902-8ed2-f9913bfb6819.svg" width="37px" />
 
   
   
