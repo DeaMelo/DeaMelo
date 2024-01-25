@@ -2,7 +2,7 @@
   
     <Meu nome é Andrea Melo/>
   
-      <Back End Jr- Full Stack de formação/> 
+      <Backend Jr - Fullstack de formação/> 
   
         <Brasília/DF/>
   
